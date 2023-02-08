@@ -1,8 +1,8 @@
 - 👋 Hello there, I’m Clinton (@clintonferraz)
 - 👀 I’m interested in JavaScript
-- 🌱 I’m currently learning ReactJS
+- 🌱 I’m currently learning ReactTS
 - 📫 How to reach me:
-  mail: clintonfmorais@gmail.com
+  mail: clinton_ferraz@hotmail.com
   instagram: @clintonferraz
 
 <!---
