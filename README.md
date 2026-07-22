@@ -1,6 +1,4 @@
 - 👋 Hello there, I’m Clinton (@clintonferraz)
-- 👀 I’m interested in React with TypeScript and Node.js
-- 🌱 I’m currently learning ReactTS
 
 How to reach me:
 - 📫 Mail: clinton_ferraz@hotmail.com
